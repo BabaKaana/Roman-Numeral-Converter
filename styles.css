@@ -45,8 +45,8 @@ button{
 div{
     border: solid 3px #ffcf56;
     width: 20rem;
-    min-height: 4rem;
-    line-height: 4rem;
+    min-height: 3.5rem;
+    line-height: 3.5rem;
     margin-top: 3rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -63,6 +63,7 @@ div{
     input {
         font-size: 1.4rem;
         text-align: center;
+        width: 80%;
     }
 
     button{
@@ -71,6 +72,8 @@ div{
 
     div {
         width: 17rem;
+        min-height: 2.8rem;
+        line-height: 2.8rem;
     }
 }
 
